@@ -2,7 +2,8 @@
   # Iniciando Projeto ReactJS
 
   * yarn add react react-dom
-  * yarn add @babel/core @babel/preset-env @babel/preset-react webpack webpack-cli @babel/cli
+  * yarn add @babel/core @babel/preset-env @babel/preset-react @babel/cli -D
+  * yarn add webpack webpack-cli  -D
   * criar babel.config.js
 
    ```babel.config.js
